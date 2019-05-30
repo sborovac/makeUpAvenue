@@ -1,0 +1,38 @@
+<img id="face" src="assets/pictures/something.jpg" height="650px" alt="">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div id="likeadd">
+    <div class="alert alert-dismissible alert-warning">
+        <h4 class="alert-heading">Naziv proizvoda</h4>
+        <p class="mb-0">Tip proivoda </p>
+    </div>
+    <button class="btn btn-dark"><i class="fa fa-cart-arrow-down" style="font-size:30px"></i></button>     
+    <button class="btn btn-dark"><i class="fa fa-heart" style="font-size:30px; color:red"></i></button> 
+    <span><i id="chat" class="fa fa-comments-o"></i><p id="price">price</p></span> 
+</div>
+
+<div class="card border-warning mb-3" style="max-width: 40rem;" id="userproducts">
+    <div class="card-header">Information</div>
+    <div class="card-body">
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+              <a class="nav-link active" data-toggle="tab" href="#home">Details</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" data-toggle="tab" href="#profile">How to use</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#profile">Ingredients</a>
+              </li>
+          </ul>
+          <div id="myTabContent" class="tab-content">
+            <div class="tab-pane fade show active" id="products">
+              <p> list of products person put in the cart </p>
+            </div>
+            <div class="tab-pane fade" id="likes">
+              <p> list of product person liked </p>
+            </div>
+          </div>
+    </div>
+  </div>
+

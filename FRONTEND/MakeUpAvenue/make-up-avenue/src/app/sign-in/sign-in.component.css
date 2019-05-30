@@ -1,0 +1,12 @@
+#face {
+
+    position: relative;
+}
+
+#signinform {
+    position: absolute;
+    top: 250px;
+    left: 150px;
+    
+    border: 1px solid black;
+}

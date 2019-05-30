@@ -1,0 +1,24 @@
+
+#face {
+
+    position: relative;
+}
+
+#usericon {
+    position: absolute;
+    top: 250px;
+    left:900px;
+    
+}
+
+#userproducts{
+    position: absolute;
+    top: 250px;
+    left: 200px;
+}
+
+#icon {
+    font-size:48px;
+    color:red; 
+    align-content: center;
+}
