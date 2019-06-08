@@ -1,0 +1,14 @@
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\bin\Debug\netcoreapp2.1\makeupAvenue.deps.json
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\bin\Debug\netcoreapp2.1\makeupAvenue.runtimeconfig.json
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\bin\Debug\netcoreapp2.1\makeupAvenue.runtimeconfig.dev.json
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\bin\Debug\netcoreapp2.1\makeupAvenue.dll
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\obj\Debug\netcoreapp2.1\makeupAvenue.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\obj\Debug\netcoreapp2.1\makeupAvenue.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\obj\Debug\netcoreapp2.1\makeupAvenue.RazorAssemblyInfo.cache
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\obj\Debug\netcoreapp2.1\makeupAvenue.RazorAssemblyInfo.cs
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\obj\Debug\netcoreapp2.1\makeupAvenue.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\obj\Debug\netcoreapp2.1\makeupAvenue.AssemblyInfo.cs
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\obj\Debug\netcoreapp2.1\makeupAvenue.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\bin\Debug\netcoreapp2.1\makeupAvenue.pdb
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\obj\Debug\netcoreapp2.1\makeupAvenue.dll
+C:\Users\hp\Documents\Git\makeUpAvenue\BACKEND\makeupAvenue\makeupAvenue\obj\Debug\netcoreapp2.1\makeupAvenue.pdb
